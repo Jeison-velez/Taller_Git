@@ -1,6 +1,6 @@
 """
     Fecha: 20/09/2023
-    Autor: Jeison Andres velez llanos,
+    Autor: Jeison Andres velez llanos,juan david hernandez
     Objetivo: Versionar código Python en Github. Se requiere un software que calcule si un aprendiz tiene el estilo de
     aprendizaje Asimilador. Para ello deben realizarse 7 preguntas de respuesta SI o NO. Si el aprendiz obtuvo 4 o más 
     respuestas en SI entonces el sistema deberá indicarle que es Asimilador, de lo contrario le dirá que su estilo de 
